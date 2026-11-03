@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Script scratch output
+course_text/
+*.tsv
+fcff.csv
+revenue.csv
+
+# Excel templates are deliberately NOT versioned here — they are the
+# original course distribution files. Rebuild from SKILL.md section 4.
+assets/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
