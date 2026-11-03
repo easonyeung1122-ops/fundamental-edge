@@ -255,8 +255,10 @@ py -3 scripts/riskreward.py --price 100 --target 140 --stop 85 \
 
 ## License
 
-`scripts/` 下代码：MIT。
+`scripts/` 下代码：**MIT**。
 `references/` 与 `SKILL.md` 文档：仅供个人研究学习，不得转售或作为付费产品分发。
+
+逐项第三方权利归属见 [NOTICE.md](NOTICE.md)。
 
 ---
 

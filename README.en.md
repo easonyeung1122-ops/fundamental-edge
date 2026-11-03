@@ -256,8 +256,10 @@ Supplemental readings (Mauboussin / Damodaran / Wolfe Research / Credit Suisse /
 
 ## License
 
-Code under `scripts/`: MIT.
+Code under `scripts/`: **MIT**.
 `references/` and `SKILL.md` documents: personal study use only; not for resale or redistribution as a paid product.
+
+Per-source attribution is in [NOTICE.md](NOTICE.md).
 
 ---
 
